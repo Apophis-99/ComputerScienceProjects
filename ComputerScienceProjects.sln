@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConCalculator", "ConCalculator\ConCalculator.csproj", "{E266A2D1-38BC-4E2E-B7B2-B46FEDEA934C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConSmallestNumber", "ConSmallestNumber\ConSmallestNumber.csproj", "{2B5C6CF2-6DB8-4E7E-84C2-305854860775}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E266A2D1-38BC-4E2E-B7B2-B46FEDEA934C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E266A2D1-38BC-4E2E-B7B2-B46FEDEA934C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E266A2D1-38BC-4E2E-B7B2-B46FEDEA934C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E266A2D1-38BC-4E2E-B7B2-B46FEDEA934C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B5C6CF2-6DB8-4E7E-84C2-305854860775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B5C6CF2-6DB8-4E7E-84C2-305854860775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B5C6CF2-6DB8-4E7E-84C2-305854860775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B5C6CF2-6DB8-4E7E-84C2-305854860775}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
