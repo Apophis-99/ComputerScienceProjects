@@ -1,6 +1,6 @@
 ﻿namespace ConCalculator;
 
-static class Program
+class Program
 {
     private static void PrintMenu()
     {
@@ -12,7 +12,7 @@ static class Program
         Console.WriteLine("5. Modulus");
         Console.WriteLine();
     }
-
+    
     private static double GetTerm(string index)
     {
         double term;
@@ -37,7 +37,7 @@ static class Program
         return term;
     }
     
-    static void Main()
+    public static void Main()
     {
         while (true)
         {
