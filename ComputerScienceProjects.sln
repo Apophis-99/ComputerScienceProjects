@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConSmallestNumber", "ConSma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConFibonacci", "ConFibonacci\ConFibonacci.csproj", "{4600A2A5-B3ED-4B30-87F7-05353A655C6D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConAscii", "ConAscii\ConAscii.csproj", "{64B70F65-5164-4FFE-AF4E-00FA1A9FC19F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{4600A2A5-B3ED-4B30-87F7-05353A655C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4600A2A5-B3ED-4B30-87F7-05353A655C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4600A2A5-B3ED-4B30-87F7-05353A655C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64B70F65-5164-4FFE-AF4E-00FA1A9FC19F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64B70F65-5164-4FFE-AF4E-00FA1A9FC19F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64B70F65-5164-4FFE-AF4E-00FA1A9FC19F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64B70F65-5164-4FFE-AF4E-00FA1A9FC19F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
