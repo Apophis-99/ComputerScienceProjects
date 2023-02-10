@@ -16,7 +16,7 @@ public static class Program
             catch (Exception)
             {
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("You must enter a number between 1 and 255!");
+                Console.WriteLine("You must enter a number between 0 and 255!");
                 Console.ForegroundColor = ConsoleColor.White;
             }
         }
